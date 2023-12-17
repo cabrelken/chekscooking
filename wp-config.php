@@ -41,8 +41,8 @@ define('DB_COLLATE', '');
 if (!defined('WP_CLI')) {
     // define( 'WP_SITEURL', $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] );
     // define( 'WP_HOME',    $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] );
-    define('WP_HOME', 'http://localhost:80/');
-    define('WP_SITEURL', 'http://localhost:80/');
+    define('WP_HOME', 'http://wordpress.f2i-dev2-vk-gi-nm.fr/');
+    define('WP_SITEURL', 'http://wordpress.f2i-dev2-vk-gi-nm.fr/');
 }
 
 
